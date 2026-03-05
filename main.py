@@ -4,7 +4,6 @@ from torchvision import transforms
 from torchvision.datasets import MNIST
 import matplotlib.pyplot as plt
 
-
 from PIL import Image, ImageDraw, ImageOps, ImageFont, ImageFilter, ImageTk
 import tkinter as tk
 from tkinter import Canvas, Button, Label, Scale, HORIZONTAL, Toplevel, messagebox, filedialog
